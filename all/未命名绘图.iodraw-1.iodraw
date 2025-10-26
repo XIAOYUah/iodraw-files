@@ -27,8 +27,14 @@
         <mxCell id="zcYNiV7QZZqg11Q4MIhI-9" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="240" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="zcYNiV7QZZqg11Q4MIhI-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zcYNiV7QZZqg11Q4MIhI-10" target="zcYNiV7QZZqg11Q4MIhI-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zcYNiV7QZZqg11Q4MIhI-10" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;L-&amp;gt;data[fast] != L-&amp;gt;data[slow]&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="230" width="136" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zcYNiV7QZZqg11Q4MIhI-12" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="472" y="100" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
