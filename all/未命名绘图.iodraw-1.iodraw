@@ -44,7 +44,7 @@
             <mxPoint x="178.77743041855098" y="565.4358974358973" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zcYNiV7QZZqg11Q4MIhI-17" value="++fast" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="zcYNiV7QZZqg11Q4MIhI-17" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;++fast&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="429.17570793287564" y="516.1065331928346" width="225.36365826490783" height="99.05163329820864" as="geometry" />
         </mxCell>
         <mxCell id="zcYNiV7QZZqg11Q4MIhI-21" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
