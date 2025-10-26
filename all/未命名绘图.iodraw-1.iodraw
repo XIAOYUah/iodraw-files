@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="714" dy="389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1500" math="0" shadow="0">
+    <mxGraphModel dx="551" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1500" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -16,7 +16,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zcYNiV7QZZqg11Q4MIhI-3" value="fast = 1" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="221.86851009237083" y="240.6849315068493" width="166.23407629148136" height="82.1917808219178" as="geometry" />
+          <mxGeometry x="220.61851009237083" y="240.6849315068493" width="166.23407629148136" height="82.1917808219178" as="geometry" />
         </mxCell>
         <mxCell id="zcYNiV7QZZqg11Q4MIhI-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zcYNiV7QZZqg11Q4MIhI-5" target="zcYNiV7QZZqg11Q4MIhI-10">
           <mxGeometry relative="1" as="geometry">
@@ -68,7 +68,7 @@
         <mxCell id="zcYNiV7QZZqg11Q4MIhI-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zcYNiV7QZZqg11Q4MIhI-32" target="zcYNiV7QZZqg11Q4MIhI-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zcYNiV7QZZqg11Q4MIhI-32" value="输入线性表L" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="zcYNiV7QZZqg11Q4MIhI-32" value="输入线性表L" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;container=0;size=30.648696544645986;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="219.35130345535404" y="90" width="168.75128292849814" height="82.1917808219178" as="geometry" />
         </mxCell>
         <mxCell id="zcYNiV7QZZqg11Q4MIhI-36" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
