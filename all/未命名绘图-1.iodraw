@@ -31,7 +31,7 @@
           <mxGeometry x="74.5" y="460" width="257" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-309" value="初始化前n个叶子节点：&#xa;i从1到n循环：&#xa;p[i].weight = w[i-1]&#xa;p[i].parent/lchild/rchild = 0" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="623" width="249" height="119" as="geometry" />
+          <mxGeometry x="78" y="550" width="249" height="119" as="geometry" />
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-310" value="初始化剩余节点：&#xa;i从n+1到m循环：&#xa;p[i].weight/parent/lchild/rchild = 0" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="166" y="792" width="258" height="101" as="geometry" />
