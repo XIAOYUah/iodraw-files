@@ -37,10 +37,10 @@
           <mxGeometry x="80" y="850" width="247" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-312" value="调用option(p, i-1, &amp;s1, &amp;s2)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Tahoma;textShadow=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="148" y="1011.5" width="202" height="66" as="geometry" />
+          <mxGeometry x="149" y="941.5" width="202" height="66" as="geometry" />
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-313" value="p[s1].parent = i&#xa;p[s2].parent = i&#xa;p[i].lchild = s1&#xa;p[i].rchild = s2&#xa;p[i].weight = 两者权重和" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Tahoma;textShadow=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="130.5" y="1130" width="237" height="119" as="geometry" />
+          <mxGeometry x="130.5" y="1060" width="237" height="119" as="geometry" />
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-366" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;textShadow=0;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oKeQfxDDzehDcsyT-eLg-314" target="oKeQfxDDzehDcsyT-eLg-311">
           <mxGeometry relative="1" as="geometry">
