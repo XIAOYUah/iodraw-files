@@ -265,9 +265,6 @@
         <mxCell id="oKeQfxDDzehDcsyT-eLg-384" value="i++" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="2060" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oKeQfxDDzehDcsyT-eLg-387" value="f != 0" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=Tahoma;textShadow=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="196.75" y="1630" width="106.5" height="63" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
