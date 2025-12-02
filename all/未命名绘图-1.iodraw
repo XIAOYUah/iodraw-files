@@ -73,9 +73,6 @@
         <mxCell id="oKeQfxDDzehDcsyT-eLg-317" value="分配cd数组（n字节）&#xa;cd[n-1] = &#39;\0&#39;" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Tahoma;textShadow=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="137" y="1510" width="228" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="oKeQfxDDzehDcsyT-eLg-318" value="编码循环开始：i从1到n" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Tahoma;textShadow=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="137" y="1630" width="226" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-319" value="start = n-1&#xa;c = i&#xa;f = p[i].parent" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Tahoma;textShadow=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="168.5" y="1720" width="163" height="84" as="geometry" />
         </mxCell>
@@ -187,13 +184,16 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oKeQfxDDzehDcsyT-eLg-346" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontFamily=Tahoma;textShadow=0;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oKeQfxDDzehDcsyT-eLg-317" target="oKeQfxDDzehDcsyT-eLg-318">
+        <mxCell id="oKeQfxDDzehDcsyT-eLg-346" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontFamily=Tahoma;textShadow=0;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oKeQfxDDzehDcsyT-eLg-317">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="250" y="1630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oKeQfxDDzehDcsyT-eLg-347" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;fontFamily=Tahoma;textShadow=0;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oKeQfxDDzehDcsyT-eLg-318" target="oKeQfxDDzehDcsyT-eLg-319">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="oKeQfxDDzehDcsyT-eLg-347" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;fontFamily=Tahoma;textShadow=0;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="oKeQfxDDzehDcsyT-eLg-319">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="1679" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-348" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=Tahoma;textShadow=0;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oKeQfxDDzehDcsyT-eLg-319" target="oKeQfxDDzehDcsyT-eLg-320">
           <mxGeometry relative="1" as="geometry">
@@ -264,9 +264,6 @@
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-384" value="i++" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="2060" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="oKeQfxDDzehDcsyT-eLg-386" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="1670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
