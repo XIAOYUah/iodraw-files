@@ -72,7 +72,7 @@
           <mxGeometry x="203.5" y="1840" width="93" height="93" as="geometry" />
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-321" value="p[f].lchild == c?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="270" y="2145" width="161" height="161" as="geometry" />
+          <mxGeometry x="171.5" y="1970" width="161" height="161" as="geometry" />
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-322" value="cd[--start] = &#39;0&#39;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="2387" width="245" height="49" as="geometry" />
