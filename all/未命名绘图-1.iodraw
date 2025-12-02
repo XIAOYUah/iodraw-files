@@ -42,7 +42,7 @@
         <mxCell id="oKeQfxDDzehDcsyT-eLg-313" value="p[s1].parent = i&#xa;p[s2].parent = i&#xa;p[i].lchild = s1&#xa;p[i].rchild = s2&#xa;p[i].weight = 两者权重和" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Tahoma;textShadow=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130.5" y="1130" width="237" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="oKeQfxDDzehDcsyT-eLg-366" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Tahoma;textShadow=0;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oKeQfxDDzehDcsyT-eLg-314" target="oKeQfxDDzehDcsyT-eLg-315">
+        <mxCell id="oKeQfxDDzehDcsyT-eLg-366" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;textShadow=0;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oKeQfxDDzehDcsyT-eLg-314" target="oKeQfxDDzehDcsyT-eLg-311">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-367" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Tahoma;textShadow=0;fontSize=14;" vertex="1" connectable="0" parent="oKeQfxDDzehDcsyT-eLg-366">
@@ -54,7 +54,7 @@
           <mxGeometry x="185" y="1290" width="128" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-315" value="i++" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Tahoma;textShadow=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-66.5" y="1020" width="81" height="49" as="geometry" />
+          <mxGeometry x="-149.5" y="950" width="81" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-316" value="生成编码：为*HC分配 (n+1) 个char*内存" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Tahoma;textShadow=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="121.5" y="1390" width="255" height="66" as="geometry" />
@@ -175,9 +175,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="oKeQfxDDzehDcsyT-eLg-343" value="" style="startArrow=none;endArrow=block;exitX=0.44;exitY=-0.01;entryX=0;entryY=0.408;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Tahoma;textShadow=0;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oKeQfxDDzehDcsyT-eLg-315" target="oKeQfxDDzehDcsyT-eLg-311">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-344" value="yes" style="startArrow=none;endArrow=block;exitX=0.499;exitY=1.042;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Tahoma;textShadow=0;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oKeQfxDDzehDcsyT-eLg-314" target="oKeQfxDDzehDcsyT-eLg-316">
           <mxGeometry relative="1" as="geometry" />
