@@ -245,7 +245,7 @@
           <mxGeometry x="188.5" y="1620" width="125" height="65.5" as="geometry" />
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-329" value="释放cd数组内存" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Tahoma;textShadow=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-450" y="1624" width="173" height="49" as="geometry" />
+          <mxGeometry x="-450" y="1628.25" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-361" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=Tahoma;textShadow=0;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oKeQfxDDzehDcsyT-eLg-329">
           <mxGeometry relative="1" as="geometry">
@@ -256,8 +256,10 @@
         <mxCell id="oKeQfxDDzehDcsyT-eLg-379" value="结束" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Tahoma;textShadow=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-423.5" y="1784" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oKeQfxDDzehDcsyT-eLg-393" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.982;entryY=0.586;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oKeQfxDDzehDcsyT-eLg-388" target="oKeQfxDDzehDcsyT-eLg-329">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="oKeQfxDDzehDcsyT-eLg-393" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oKeQfxDDzehDcsyT-eLg-388">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-280" y="1653" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
