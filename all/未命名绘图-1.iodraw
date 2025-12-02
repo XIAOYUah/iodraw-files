@@ -17,10 +17,10 @@
           <mxGeometry y="130" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-306" value="计算 m = 2*n - 1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="115" y="309" width="175" height="49" as="geometry" />
+          <mxGeometry x="113" y="260" width="175" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-307" value="为*HT分配 (m+1) 个HTNode内存" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="205" y="408" width="180" height="66" as="geometry" />
+          <mxGeometry x="110.5" y="370" width="180" height="66" as="geometry" />
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-308" value="p = *HT（指针指向首地址）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="167" y="524" width="257" height="49" as="geometry" />
