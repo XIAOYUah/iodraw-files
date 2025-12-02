@@ -54,7 +54,7 @@
           <mxGeometry x="185" y="1290" width="128" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-315" value="i++" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Tahoma;textShadow=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-40" y="1020" width="81" height="49" as="geometry" />
+          <mxGeometry x="-66.5" y="1020" width="81" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-316" value="生成编码：为*HC分配 (n+1) 个char*内存" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Tahoma;textShadow=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="121.5" y="1390" width="255" height="66" as="geometry" />
