@@ -69,10 +69,10 @@
           <mxGeometry x="168.5" y="1720" width="163" height="84" as="geometry" />
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-320" value="f != 0?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="203.5" y="1853.5" width="93" height="63" as="geometry" />
+          <mxGeometry x="196.75" y="1853.5" width="106.5" height="63" as="geometry" />
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-321" value="p[f].lchild == c?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="171.5" y="1970" width="161" height="161" as="geometry" />
+          <mxGeometry x="169.5" y="1970" width="161" height="161" as="geometry" />
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-322" value="cd[--start] = &#39;0&#39;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="2387" width="245" height="49" as="geometry" />
