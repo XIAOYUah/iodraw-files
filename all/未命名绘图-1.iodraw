@@ -97,7 +97,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-324" value="c = f&#xa;f = p[f].parent" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-149.5" y="1852" width="164" height="66" as="geometry" />
+          <mxGeometry x="-149.5" y="1800" width="164" height="66" as="geometry" />
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-325" value="为(*HC)[i]分配 (n-start) 字节内存" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="387" y="1853.5" width="227" height="66" as="geometry" />
