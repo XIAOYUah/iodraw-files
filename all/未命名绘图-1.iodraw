@@ -272,7 +272,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oKeQfxDDzehDcsyT-eLg-368" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oKeQfxDDzehDcsyT-eLg-368" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="144" y="14.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
