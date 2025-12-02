@@ -40,7 +40,7 @@
           <mxGeometry x="80" y="850" width="247" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-312" value="调用option(p, i-1, &amp;s1, &amp;s2)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="164" y="1060" width="202" height="66" as="geometry" />
+          <mxGeometry x="148" y="1011.5" width="202" height="66" as="geometry" />
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-313" value="p[s1].parent = i&#xa;p[s2].parent = i&#xa;p[i].lchild = s1&#xa;p[i].rchild = s2&#xa;p[i].weight = 两者权重和" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="265" y="1158" width="237" height="119" as="geometry" />
@@ -136,12 +136,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oKeQfxDDzehDcsyT-eLg-339" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oKeQfxDDzehDcsyT-eLg-311" target="oKeQfxDDzehDcsyT-eLg-312">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="384" y="1017" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="oKeQfxDDzehDcsyT-eLg-339" value="" style="startArrow=none;endArrow=block;exitX=0.68;exitY=0.98;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oKeQfxDDzehDcsyT-eLg-311" target="oKeQfxDDzehDcsyT-eLg-312">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-340" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oKeQfxDDzehDcsyT-eLg-312" target="oKeQfxDDzehDcsyT-eLg-313">
           <mxGeometry relative="1" as="geometry">
