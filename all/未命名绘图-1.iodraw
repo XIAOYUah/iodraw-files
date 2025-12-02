@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1718" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1500" math="1" shadow="0">
+    <mxGraphModel dx="5884" dy="3016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1500" math="1" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -57,10 +57,10 @@
           <mxGeometry x="-40" y="1020" width="81" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-316" value="生成编码：为*HC分配 (n+1) 个char*内存" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="121.5" y="1510" width="255" height="66" as="geometry" />
+          <mxGeometry x="121.5" y="1390" width="255" height="66" as="geometry" />
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-317" value="分配cd数组（n字节）&#xa;cd[n-1] = &#39;\0&#39;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="1630" width="228" height="66" as="geometry" />
+          <mxGeometry x="135" y="1510" width="228" height="66" as="geometry" />
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-318" value="编码循环开始：i从1到n" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="291" y="1746" width="226" height="49" as="geometry" />
