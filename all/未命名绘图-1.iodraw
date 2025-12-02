@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="5884" dy="3016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1500" math="1" shadow="0">
+    <mxGraphModel dx="1842" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1500" math="1" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -63,7 +63,7 @@
           <mxGeometry x="135" y="1510" width="228" height="66" as="geometry" />
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-318" value="编码循环开始：i从1到n" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="291" y="1746" width="226" height="49" as="geometry" />
+          <mxGeometry x="137" y="1630" width="226" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-319" value="start = n-1&#xa;c = i&#xa;f = p[i].parent" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="244" y="1845" width="163" height="84" as="geometry" />
@@ -250,13 +250,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oKeQfxDDzehDcsyT-eLg-359" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.43;exitY=0.01;entryX=0.99;entryY=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oKeQfxDDzehDcsyT-eLg-328" target="oKeQfxDDzehDcsyT-eLg-318">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="631" y="2640" />
-              <mxPoint x="631" y="1820" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="oKeQfxDDzehDcsyT-eLg-359" value="" style="startArrow=none;endArrow=block;exitX=0.43;exitY=0.01;entryX=0.99;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oKeQfxDDzehDcsyT-eLg-328" target="oKeQfxDDzehDcsyT-eLg-318">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-360" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.61;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oKeQfxDDzehDcsyT-eLg-327" target="oKeQfxDDzehDcsyT-eLg-329">
           <mxGeometry relative="1" as="geometry">
