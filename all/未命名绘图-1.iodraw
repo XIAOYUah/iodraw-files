@@ -39,6 +39,9 @@
         <mxCell id="oKeQfxDDzehDcsyT-eLg-312" value="调用option(p, i-1, &amp;s1, &amp;s2)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Tahoma;textShadow=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="149" y="941.5" width="202" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="oKeQfxDDzehDcsyT-eLg-381" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oKeQfxDDzehDcsyT-eLg-313" target="oKeQfxDDzehDcsyT-eLg-315">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-313" value="p[s1].parent = i&#xa;p[s2].parent = i&#xa;p[i].lchild = s1&#xa;p[i].rchild = s2&#xa;p[i].weight = 两者权重和" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Tahoma;textShadow=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="131.5" y="1040" width="237" height="119" as="geometry" />
         </mxCell>
@@ -56,10 +59,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-314" value="i &gt;= m" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=Tahoma;textShadow=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="185" y="1290" width="128" height="70" as="geometry" />
+          <mxGeometry x="186" y="1290" width="128" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oKeQfxDDzehDcsyT-eLg-382" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oKeQfxDDzehDcsyT-eLg-315" target="oKeQfxDDzehDcsyT-eLg-314">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-315" value="i++" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Tahoma;textShadow=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="208.5" y="1200" width="81" height="49" as="geometry" />
+          <mxGeometry x="209.5" y="1200" width="81" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-316" value="生成编码：为*HC分配 (n+1) 个char*内存" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Tahoma;textShadow=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="121.5" y="1390" width="255" height="66" as="geometry" />
