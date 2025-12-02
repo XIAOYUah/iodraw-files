@@ -43,10 +43,10 @@
           <mxGeometry x="148" y="1011.5" width="202" height="66" as="geometry" />
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-313" value="p[s1].parent = i&#xa;p[s2].parent = i&#xa;p[i].lchild = s1&#xa;p[i].rchild = s2&#xa;p[i].weight = 两者权重和" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="265" y="1158" width="237" height="119" as="geometry" />
+          <mxGeometry x="130.5" y="1130" width="237" height="119" as="geometry" />
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-314" value="i &gt; m?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="327" y="1328" width="114" height="114" as="geometry" />
+          <mxGeometry x="192" y="1290" width="114" height="114" as="geometry" />
         </mxCell>
         <mxCell id="oKeQfxDDzehDcsyT-eLg-315" value="i++" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-250" y="1020" width="81" height="49" as="geometry" />
