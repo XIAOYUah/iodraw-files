@@ -34,7 +34,7 @@
         <mxCell id="uoDtwzQ-kJQRdCQEI6f3-65" value="pivot = data[high]&lt;div&gt;i = low - 1&lt;/div&gt;&lt;div&gt;j = low&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="394.61538461538464" y="362.5806451612903" width="175.38461538461536" height="77.41935483870967" as="geometry" />
         </mxCell>
-        <mxCell id="uoDtwzQ-kJQRdCQEI6f3-68" value="j &amp;lt; high" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="uoDtwzQ-kJQRdCQEI6f3-68" value="j &amp;lt; high" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="367.31" y="500" width="230" height="90" as="geometry" />
         </mxCell>
       </root>
