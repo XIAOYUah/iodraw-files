@@ -266,6 +266,176 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <UserObject label="开始" id="uoDtwzQ-kJQRdCQEI6f3-20" type="start" from="" to="" condition="" undefined="" placeholders="1">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="-340" y="2300" width="50" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="low &lt; high?" id="uoDtwzQ-kJQRdCQEI6f3-21" type="decision" from="" to="" condition="" undefined="" placeholders="1">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="-340" y="2370" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="返回" id="uoDtwzQ-kJQRdCQEI6f3-22" type="end" from="" to="" condition="" undefined="" placeholders="1">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="-340" y="2440" width="50" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="选择 pivot = arr[high]" id="uoDtwzQ-kJQRdCQEI6f3-23" type="process" from="" to="" condition="" undefined="" placeholders="1">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="-340" y="2510" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="i = low - 1" id="uoDtwzQ-kJQRdCQEI6f3-24" type="process" from="" to="" condition="" undefined="" placeholders="1">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="-340" y="2580" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="j = low" id="uoDtwzQ-kJQRdCQEI6f3-25" type="process" from="" to="" condition="" undefined="" placeholders="1">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="-340" y="2650" width="60" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="j &lt; high?" id="uoDtwzQ-kJQRdCQEI6f3-26" type="decision" from="" to="" condition="" undefined="" placeholders="1">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="-340" y="2720" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="交换 arr[i+1] 与 arr[high]" id="uoDtwzQ-kJQRdCQEI6f3-27" type="process" from="" to="" condition="" undefined="" placeholders="1">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="-340" y="2790" width="150" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="arr[j] &lt;= pivot?" id="uoDtwzQ-kJQRdCQEI6f3-28" type="decision" from="" to="" condition="" undefined="" placeholders="1">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="-340" y="2860" width="100" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="i++" id="uoDtwzQ-kJQRdCQEI6f3-29" type="process" from="" to="" condition="" undefined="" placeholders="1">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="-340" y="2930" width="40" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="交换 arr[i] 与 arr[j]" id="uoDtwzQ-kJQRdCQEI6f3-30" type="process" from="" to="" condition="" undefined="" placeholders="1">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="-340" y="3000" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="j++" id="uoDtwzQ-kJQRdCQEI6f3-31" type="process" from="" to="" condition="" undefined="" placeholders="1">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="-340" y="3070" width="40" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="pi = i + 1" id="uoDtwzQ-kJQRdCQEI6f3-32" type="process" from="" to="" condition="" undefined="" placeholders="1">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="-340" y="3140" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="quickSort(arr" id="uoDtwzQ-kJQRdCQEI6f3-33" type=" low" from=" pi-1)" to="recursive" condition="" undefined="" placeholders="1">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="-340" y="3210" width="90" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="quickSort(arr" id="uoDtwzQ-kJQRdCQEI6f3-34" type=" pi+1" from=" high)" to="recursive" condition="" undefined="" placeholders="1">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="-340" y="3280" width="90" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="结束" id="uoDtwzQ-kJQRdCQEI6f3-35" type="end" from="" to="" condition="" undefined="" placeholders="1">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="-340" y="3350" width="50" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" id="uoDtwzQ-kJQRdCQEI6f3-36" type="edge" from="A" to="B" condition="" placeholders="1">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="-340" y="3420" width="50" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" id="uoDtwzQ-kJQRdCQEI6f3-37" type="edge" from="B" to="Z" condition="否" placeholders="1">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="-340" y="3500" width="50" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" id="uoDtwzQ-kJQRdCQEI6f3-38" type="edge" from="B" to="C" condition="是" placeholders="1">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="-340" y="3580" width="50" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" id="uoDtwzQ-kJQRdCQEI6f3-39" type="edge" from="C" to="D" condition="" placeholders="1">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="-340" y="3660" width="50" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" id="uoDtwzQ-kJQRdCQEI6f3-40" type="edge" from="D" to="E" condition="" placeholders="1">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="-340" y="3740" width="50" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" id="uoDtwzQ-kJQRdCQEI6f3-41" type="edge" from="E" to="F" condition="" placeholders="1">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="-340" y="3820" width="50" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" id="uoDtwzQ-kJQRdCQEI6f3-42" type="edge" from="F" to="G" condition="否" placeholders="1">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="-340" y="3900" width="50" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" id="uoDtwzQ-kJQRdCQEI6f3-43" type="edge" from="F" to="H" condition="是" placeholders="1">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="-340" y="3980" width="50" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" id="uoDtwzQ-kJQRdCQEI6f3-44" type="edge" from="H" to="I" condition="是" placeholders="1">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="-340" y="4060" width="50" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" id="uoDtwzQ-kJQRdCQEI6f3-45" type="edge" from="I" to="J" condition="" placeholders="1">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="-340" y="4140" width="50" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" id="uoDtwzQ-kJQRdCQEI6f3-46" type="edge" from="J" to="K" condition="" placeholders="1">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="-340" y="4220" width="50" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" id="uoDtwzQ-kJQRdCQEI6f3-47" type="edge" from="H" to="K" condition="否" placeholders="1">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="-340" y="4300" width="50" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" id="uoDtwzQ-kJQRdCQEI6f3-48" type="edge" from="K" to="F" condition="" placeholders="1">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="-340" y="4380" width="50" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" id="uoDtwzQ-kJQRdCQEI6f3-49" type="edge" from="G" to="L" condition="" placeholders="1">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="-340" y="4460" width="50" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" id="uoDtwzQ-kJQRdCQEI6f3-50" type="edge" from="L" to="M" condition="" placeholders="1">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="-340" y="4540" width="50" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" id="uoDtwzQ-kJQRdCQEI6f3-51" type="edge" from="M" to="N" condition="" placeholders="1">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="-340" y="4620" width="50" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" id="uoDtwzQ-kJQRdCQEI6f3-52" type="edge" from="N" to="Z" condition="" placeholders="1">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="-340" y="4700" width="50" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" id="uoDtwzQ-kJQRdCQEI6f3-53" type="edge" from="Z" to="O" condition="" placeholders="1">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="-340" y="4780" width="50" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
