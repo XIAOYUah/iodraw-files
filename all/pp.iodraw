@@ -161,7 +161,7 @@
         <mxCell id="dMhVS5zvAdSsilSiy2jE-7" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="510" y="338" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dMhVS5zvAdSsilSiy2jE-8" value="&#xa;&lt;div style=&quot;color: #3b3b3b;background-color: #ffffff;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 20px;line-height: 27px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #008000;&quot;&gt;A是否由1~8组成且不重复&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dMhVS5zvAdSsilSiy2jE-8" value="&lt;br&gt;&lt;div style=&quot;color: #3b3b3b;background-color: #ffffff;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 20px;line-height: 27px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #008000;&quot;&gt;A由1~8组成&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #008000;&quot;&gt;且不重复&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
