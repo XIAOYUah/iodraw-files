@@ -136,7 +136,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tv5f_wQggbkeW_jBM-7K" name="p6">
-    <mxGraphModel dx="718" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="977" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -226,6 +226,9 @@
         </mxCell>
         <mxCell id="dMhVS5zvAdSsilSiy2jE-32" value="输出&lt;div&gt;&lt;div style=&quot;color: rgb(59, 59, 59); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 20px; line-height: 27px; white-space: pre;&quot;&gt;a &lt;span style=&quot;color: #000000;&quot;&gt;+&lt;/span&gt; &lt;span style=&quot;color: #a31515;&quot;&gt;&quot; × 5 = &quot;&lt;/span&gt; &lt;span style=&quot;color: #000000;&quot;&gt;+&lt;/span&gt; b&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="385" y="980" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dMhVS5zvAdSsilSiy2jE-34" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="575" y="718" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
