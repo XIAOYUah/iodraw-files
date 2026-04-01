@@ -163,11 +163,17 @@
         <mxCell id="dMhVS5zvAdSsilSiy2jE-7" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="505" y="325" width="50" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="dMhVS5zvAdSsilSiy2jE-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dMhVS5zvAdSsilSiy2jE-10" target="dMhVS5zvAdSsilSiy2jE-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dMhVS5zvAdSsilSiy2jE-10" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;div style=&quot;color: rgb(59, 59, 59); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 17px; line-height: 27px; white-space: pre;&quot;&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 128, 0); font-size: 17px;&quot;&gt;A由1~8组成&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 128, 0); font-size: 17px;&quot;&gt;且不重复&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="405" y="390" width="190" height="110" as="geometry" />
         </mxCell>
         <mxCell id="dMhVS5zvAdSsilSiy2jE-13" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="520" y="488" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dMhVS5zvAdSsilSiy2jE-14" value="&lt;div style=&quot;color: rgb(59, 59, 59); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 20px; line-height: 27px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #001080;&quot;&gt;b&lt;/span&gt; &lt;span style=&quot;color: #000000;&quot;&gt;=&lt;/span&gt; a &lt;span style=&quot;color: #000000;&quot;&gt;*&lt;/span&gt; &lt;span style=&quot;color: #098658;&quot;&gt;5&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
