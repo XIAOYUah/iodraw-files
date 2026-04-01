@@ -197,6 +197,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="dMhVS5zvAdSsilSiy2jE-20" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="318" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dMhVS5zvAdSsilSiy2jE-21" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="565" y="448" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
