@@ -161,7 +161,7 @@
           <mxGeometry x="440" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dMhVS5zvAdSsilSiy2jE-7" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="515" y="330" width="50" height="40" as="geometry" />
+          <mxGeometry x="440" y="340" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dMhVS5zvAdSsilSiy2jE-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dMhVS5zvAdSsilSiy2jE-10" target="dMhVS5zvAdSsilSiy2jE-14">
           <mxGeometry relative="1" as="geometry" />
@@ -170,7 +170,7 @@
           <mxGeometry x="405" y="390" width="190" height="110" as="geometry" />
         </mxCell>
         <mxCell id="dMhVS5zvAdSsilSiy2jE-13" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="515" y="488" width="50" height="30" as="geometry" />
+          <mxGeometry x="440" y="485" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dMhVS5zvAdSsilSiy2jE-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dMhVS5zvAdSsilSiy2jE-14" target="dMhVS5zvAdSsilSiy2jE-16">
           <mxGeometry relative="1" as="geometry" />
