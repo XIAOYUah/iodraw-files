@@ -215,7 +215,7 @@
         <mxCell id="dMhVS5zvAdSsilSiy2jE-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dMhVS5zvAdSsilSiy2jE-22" target="dMhVS5zvAdSsilSiy2jE-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dMhVS5zvAdSsilSiy2jE-22" value="&lt;div style=&quot;color: rgb(59, 59, 59); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 15px; line-height: 27px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: rgb(0, 128, 0); font-size: 15px;&quot;&gt;A和B刚好用完1~8&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="dMhVS5zvAdSsilSiy2jE-22" value="&lt;div style=&quot;color: rgb(59, 59, 59); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; line-height: 27px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: rgb(0, 128, 0); font-size: 16px;&quot;&gt;A和B刚好用完1~8&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="426.0975609756098" y="748.4" width="184.39024390243904" height="101.2" as="geometry" />
         </mxCell>
         <mxCell id="dMhVS5zvAdSsilSiy2jE-24" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
@@ -229,7 +229,7 @@
             <mxPoint x="650" y="794.4" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dMhVS5zvAdSsilSiy2jE-32" value="输出&lt;div&gt;&lt;div style=&quot;color: rgb(59, 59, 59); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 20px; line-height: 27px; white-space: pre;&quot;&gt;a &lt;span style=&quot;color: #000000;&quot;&gt;+&lt;/span&gt; &lt;span style=&quot;color: #a31515;&quot;&gt;&quot; × 5 = &quot;&lt;/span&gt; &lt;span style=&quot;color: #000000;&quot;&gt;+&lt;/span&gt; b&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="dMhVS5zvAdSsilSiy2jE-32" value="输出&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;color: rgb(59, 59, 59); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; line-height: 27px; white-space: pre;&quot;&gt;a &lt;span style=&quot;color: rgb(0, 0, 0); font-size: 16px;&quot;&gt;+&lt;/span&gt; &lt;span style=&quot;color: rgb(163, 21, 21); font-size: 16px;&quot;&gt;&quot; × 5 = &quot;&lt;/span&gt; &lt;span style=&quot;color: rgb(0, 0, 0); font-size: 16px;&quot;&gt;+&lt;/span&gt; b&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="417.3170731707317" y="904.8000000000001" width="201.9512195121951" height="55.2" as="geometry" />
         </mxCell>
         <mxCell id="dMhVS5zvAdSsilSiy2jE-34" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
