@@ -163,12 +163,7 @@
         <mxCell id="dMhVS5zvAdSsilSiy2jE-7" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="505" y="325" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dMhVS5zvAdSsilSiy2jE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dMhVS5zvAdSsilSiy2jE-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dMhVS5zvAdSsilSiy2jE-10" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;color: rgb(59, 59, 59); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 20px; line-height: 27px; white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 128, 0);&quot;&gt;A由1~8组成&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 128, 0);&quot;&gt;且不重复&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dMhVS5zvAdSsilSiy2jE-10" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;div style=&quot;color: rgb(59, 59, 59); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 17px; line-height: 27px; white-space: pre;&quot;&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 128, 0); font-size: 17px;&quot;&gt;A由1~8组成&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 128, 0); font-size: 17px;&quot;&gt;且不重复&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="405" y="390" width="190" height="100" as="geometry" />
         </mxCell>
       </root>
