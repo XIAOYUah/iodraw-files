@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="TKQw1ordUEkLXzyznN2A">
-    <mxGraphModel dx="842" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="235" dy="138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,6 +21,14 @@
         </mxCell>
         <mxCell id="zSd1gs-fkCrFWqaa7B1j-6" value="6:00/12:00/18:00 调整阶段求解 A" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="361.5" y="333.5" width="187" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="zSd1gs-fkCrFWqaa7B1j-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zSd1gs-fkCrFWqaa7B1j-7" target="zSd1gs-fkCrFWqaa7B1j-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="455" y="540" />
+              <mxPoint x="287" y="540" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="zSd1gs-fkCrFWqaa7B1j-7" value="实际运行计算紧急购电 U 并汇总费用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="337.5" y="450" width="235" height="66" as="geometry" />
