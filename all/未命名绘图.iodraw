@@ -10,6 +10,9 @@
         <mxCell id="zSd1gs-fkCrFWqaa7B1j-3" value="result4-2：计划阶段求解 B" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="12" y="284" width="250" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="zSd1gs-fkCrFWqaa7B1j-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zSd1gs-fkCrFWqaa7B1j-4" target="zSd1gs-fkCrFWqaa7B1j-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zSd1gs-fkCrFWqaa7B1j-4" value="实际运行计算紧急购电 U 并汇总费用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="19.5" y="410" width="235" height="66" as="geometry" />
         </mxCell>
@@ -20,7 +23,7 @@
           <mxGeometry x="361.5" y="333.5" width="187" height="66" as="geometry" />
         </mxCell>
         <mxCell id="zSd1gs-fkCrFWqaa7B1j-7" value="实际运行计算紧急购电 U 并汇总费用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="337.5" y="460" width="235" height="66" as="geometry" />
+          <mxGeometry x="337.5" y="450" width="235" height="66" as="geometry" />
         </mxCell>
         <mxCell id="zSd1gs-fkCrFWqaa7B1j-8" value="输出结果到文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="560" y="580" width="172" height="49" as="geometry" />
