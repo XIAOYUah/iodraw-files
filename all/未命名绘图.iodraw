@@ -8,7 +8,7 @@
           <mxGeometry x="161" y="119" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="zSd1gs-fkCrFWqaa7B1j-3" value="result4-2：计划阶段求解 B" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="19.5" y="284" width="250" height="49" as="geometry" />
+          <mxGeometry x="12" y="284" width="250" height="49" as="geometry" />
         </mxCell>
         <mxCell id="zSd1gs-fkCrFWqaa7B1j-4" value="实际运行计算紧急购电 U 并汇总费用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="27" y="450" width="235" height="66" as="geometry" />
