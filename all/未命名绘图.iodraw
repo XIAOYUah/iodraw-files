@@ -8,7 +8,7 @@
           <mxGeometry x="161" y="119" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="zSd1gs-fkCrFWqaa7B1j-3" value="result4-2：计划阶段求解 B" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="342" width="250" height="49" as="geometry" />
+          <mxGeometry x="19.5" y="284" width="250" height="49" as="geometry" />
         </mxCell>
         <mxCell id="zSd1gs-fkCrFWqaa7B1j-4" value="实际运行计算紧急购电 U 并汇总费用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="27" y="450" width="235" height="66" as="geometry" />
@@ -44,13 +44,6 @@
         <mxCell id="zSd1gs-fkCrFWqaa7B1j-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="zSd1gs-fkCrFWqaa7B1j-6" target="zSd1gs-fkCrFWqaa7B1j-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zSd1gs-fkCrFWqaa7B1j-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.09;entryY=0;rounded=0;" edge="1" parent="1" source="zSd1gs-fkCrFWqaa7B1j-4" target="zSd1gs-fkCrFWqaa7B1j-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="145" y="541" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="zSd1gs-fkCrFWqaa7B1j-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zSd1gs-fkCrFWqaa7B1j-17" target="zSd1gs-fkCrFWqaa7B1j-2">
