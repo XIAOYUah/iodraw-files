@@ -17,10 +17,10 @@
           <mxGeometry x="330" y="235" width="250" height="49" as="geometry" />
         </mxCell>
         <mxCell id="zSd1gs-fkCrFWqaa7B1j-6" value="6:00/12:00/18:00 调整阶段求解 A" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="337" y="334" width="187" height="66" as="geometry" />
+          <mxGeometry x="361.5" y="333.5" width="187" height="66" as="geometry" />
         </mxCell>
         <mxCell id="zSd1gs-fkCrFWqaa7B1j-7" value="实际运行计算紧急购电 U 并汇总费用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="312" y="450" width="235" height="66" as="geometry" />
+          <mxGeometry x="337.5" y="460" width="235" height="66" as="geometry" />
         </mxCell>
         <mxCell id="zSd1gs-fkCrFWqaa7B1j-8" value="输出结果到文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="201" y="566" width="172" height="49" as="geometry" />
@@ -53,13 +53,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zSd1gs-fkCrFWqaa7B1j-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.91;entryY=0;rounded=0;" edge="1" parent="1" source="zSd1gs-fkCrFWqaa7B1j-7" target="zSd1gs-fkCrFWqaa7B1j-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="430" y="541" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="zSd1gs-fkCrFWqaa7B1j-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zSd1gs-fkCrFWqaa7B1j-17" target="zSd1gs-fkCrFWqaa7B1j-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -67,7 +60,11 @@
           <mxGeometry x="227" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zSd1gs-fkCrFWqaa7B1j-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.524;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zSd1gs-fkCrFWqaa7B1j-2" target="zSd1gs-fkCrFWqaa7B1j-5">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="461" y="152" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
