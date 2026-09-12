@@ -23,7 +23,7 @@
           <mxGeometry x="337.5" y="460" width="235" height="66" as="geometry" />
         </mxCell>
         <mxCell id="zSd1gs-fkCrFWqaa7B1j-8" value="输出结果到文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="201" y="566" width="172" height="49" as="geometry" />
+          <mxGeometry x="560" y="580" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="zSd1gs-fkCrFWqaa7B1j-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="zSd1gs-fkCrFWqaa7B1j-2">
           <mxGeometry relative="1" as="geometry">
@@ -67,6 +67,9 @@
               <mxPoint x="131" y="234" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zSd1gs-fkCrFWqaa7B1j-25" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="580" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
