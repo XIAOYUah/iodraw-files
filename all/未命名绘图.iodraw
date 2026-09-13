@@ -90,6 +90,9 @@
         <mxCell id="zSd1gs-fkCrFWqaa7B1j-28" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="388.2394366197183" y="815" width="194.36619718309862" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vOdaw_95jXlCG0RnbTt--2" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="618" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
