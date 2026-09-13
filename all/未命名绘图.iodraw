@@ -98,11 +98,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0z2zf9hvBWnzD9PrqQiY-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0z2zf9hvBWnzD9PrqQiY-2" target="0z2zf9hvBWnzD9PrqQiY-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0z2zf9hvBWnzD9PrqQiY-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0z2zf9hvBWnzD9PrqQiY-2" target="0z2zf9hvBWnzD9PrqQiY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-2" value="0:00 获取未来24小时光伏预报&#xa;并线性规划求计划购电量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="354" y="120" width="252" height="84" as="geometry" />
+          <mxGeometry x="354" y="120" width="252" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-4" value="6:00、12:00、18:00 获取最新预报&#xa;并线性规划求调整购电量并计偏差费用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="354" y="230" width="252" height="84" as="geometry" />
+          <mxGeometry x="354" y="230" width="252" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-5" value="实际运行采用光伏实际功率" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="360" width="252" height="60" as="geometry" />
