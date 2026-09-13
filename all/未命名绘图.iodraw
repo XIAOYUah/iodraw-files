@@ -94,7 +94,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9wQhbZIj8Bkrqkf3ew6X" name="第 2 页">
-    <mxGraphModel dx="1436" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="1628" dy="956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,7 +128,11 @@
           <mxGeometry x="308.75" y="400" width="342.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0z2zf9hvBWnzD9PrqQiY-7" target="0z2zf9hvBWnzD9PrqQiY-9">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="247" y="633" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-7" value="紧急购电" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="184.75" y="530" width="124" height="49" as="geometry" />
@@ -142,6 +146,9 @@
         </mxCell>
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-8" value="紧急购电量为0" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="660" y="530" width="165" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="0z2zf9hvBWnzD9PrqQiY-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0z2zf9hvBWnzD9PrqQiY-9" target="0z2zf9hvBWnzD9PrqQiY-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-9" value="汇总计划、调整、紧急三部分费用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="353.5" y="600" width="253" height="66" as="geometry" />
@@ -159,8 +166,11 @@
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-22" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="420" y="30" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0z2zf9hvBWnzD9PrqQiY-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0z2zf9hvBWnzD9PrqQiY-23" target="0z2zf9hvBWnzD9PrqQiY-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-23" value="汇总计划、调整、紧急三部分费用&lt;div&gt;并保存结果&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="358" y="700" width="248.5" height="50" as="geometry" />
+          <mxGeometry x="355.75" y="700" width="248.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-28" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="420" y="790" width="120" height="60" as="geometry" />
