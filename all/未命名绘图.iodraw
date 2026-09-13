@@ -98,11 +98,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0z2zf9hvBWnzD9PrqQiY-1" value="0:00 获取未来24小时光伏预报" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="60" y="140" width="237" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-2" value="0:00 获取未来24小时光伏预报&#xa;并线性规划求计划购电量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="53" y="256" width="252" height="84" as="geometry" />
+          <mxGeometry x="354" y="130" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-3" value="6:00、12:00、18:00 获取最新预报" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="78" y="390" width="202" height="66" as="geometry" />
@@ -127,11 +124,6 @@
         </mxCell>
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-10" value="保存 result3 各文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="80" y="1207" width="199" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="0z2zf9hvBWnzD9PrqQiY-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0z2zf9hvBWnzD9PrqQiY-1" target="0z2zf9hvBWnzD9PrqQiY-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0z2zf9hvBWnzD9PrqQiY-2" target="0z2zf9hvBWnzD9PrqQiY-3">
           <mxGeometry relative="1" as="geometry">
@@ -186,7 +178,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0z2zf9hvBWnzD9PrqQiY-22" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="0z2zf9hvBWnzD9PrqQiY-22" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="420" y="30" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
