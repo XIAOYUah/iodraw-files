@@ -105,10 +105,10 @@
           <mxGeometry x="354" y="230" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-5" value="阶段三 实际运行：采用光伏实际功率" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="53" y="640" width="252" height="84" as="geometry" />
+          <mxGeometry x="354" y="360" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-6" value="供电是否不足" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="106" y="774" width="145" height="145" as="geometry" />
+          <mxGeometry x="407.5" y="460" width="145" height="145" as="geometry" />
         </mxCell>
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-7" value="紧急购电" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="992" width="124" height="49" as="geometry" />
