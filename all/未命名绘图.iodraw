@@ -98,70 +98,90 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VdAw6mdAsAGD_oAD_GhM-1" value="读取附件1：电价、小区负载、光伏预测功率" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="24" y="20" width="244" height="66" as="geometry" />
+        <mxCell id="0z2zf9hvBWnzD9PrqQiY-1" value="0:00 获取未来24小时光伏预报" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="60" y="140" width="237" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="VdAw6mdAsAGD_oAD_GhM-2" value="离散化：一天划分为144个时间步" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="24" y="136" width="245" height="66" as="geometry" />
+        <mxCell id="0z2zf9hvBWnzD9PrqQiY-2" value="阶段一 计划：线性规划求计划购电量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="53" y="256" width="252" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="VdAw6mdAsAGD_oAD_GhM-3" value="建立线性规划模型" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="52" y="253" width="188" height="49" as="geometry" />
+        <mxCell id="0z2zf9hvBWnzD9PrqQiY-3" value="6:00、12:00、18:00 获取最新预报" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="78" y="390" width="202" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="VdAw6mdAsAGD_oAD_GhM-4" value="引入松弛变量化为标准型" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="28" y="351" width="236" height="49" as="geometry" />
+        <mxCell id="0z2zf9hvBWnzD9PrqQiY-4" value="阶段二 调整：线性规划求调整购电量并计偏差费用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="53" y="506" width="252" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="VdAw6mdAsAGD_oAD_GhM-5" value="单纯形法迭代求解" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="52" y="450" width="188" height="49" as="geometry" />
+        <mxCell id="0z2zf9hvBWnzD9PrqQiY-5" value="阶段三 实际运行：采用光伏实际功率" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="53" y="640" width="252" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="VdAw6mdAsAGD_oAD_GhM-6" value="检验数是否全部非负" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="50" y="571" width="193" height="193" as="geometry" />
+        <mxCell id="0z2zf9hvBWnzD9PrqQiY-6" value="供电是否不足" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="106" y="774" width="145" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="VdAw6mdAsAGD_oAD_GhM-7" value="得到最优计划购电量与充放电量" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="20" y="837" width="253" height="66" as="geometry" />
+        <mxCell id="0z2zf9hvBWnzD9PrqQiY-7" value="紧急购电" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="992" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="VdAw6mdAsAGD_oAD_GhM-8" value="保存 result1.xlsx" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="56" y="953" width="180" height="49" as="geometry" />
+        <mxCell id="0z2zf9hvBWnzD9PrqQiY-8" value="紧急购电量为0" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="194" y="992" width="165" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="VdAw6mdAsAGD_oAD_GhM-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="VdAw6mdAsAGD_oAD_GhM-1" target="VdAw6mdAsAGD_oAD_GhM-2" edge="1">
+        <mxCell id="0z2zf9hvBWnzD9PrqQiY-9" value="汇总计划、调整、紧急三部分费用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="53" y="1091" width="253" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="0z2zf9hvBWnzD9PrqQiY-10" value="保存 result3 各文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1207" width="199" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="0z2zf9hvBWnzD9PrqQiY-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0z2zf9hvBWnzD9PrqQiY-1" target="0z2zf9hvBWnzD9PrqQiY-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VdAw6mdAsAGD_oAD_GhM-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="VdAw6mdAsAGD_oAD_GhM-2" target="VdAw6mdAsAGD_oAD_GhM-3" edge="1">
+        <mxCell id="0z2zf9hvBWnzD9PrqQiY-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0z2zf9hvBWnzD9PrqQiY-2" target="0z2zf9hvBWnzD9PrqQiY-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VdAw6mdAsAGD_oAD_GhM-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" parent="1" source="VdAw6mdAsAGD_oAD_GhM-3" target="VdAw6mdAsAGD_oAD_GhM-4" edge="1">
+        <mxCell id="0z2zf9hvBWnzD9PrqQiY-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0z2zf9hvBWnzD9PrqQiY-3" target="0z2zf9hvBWnzD9PrqQiY-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VdAw6mdAsAGD_oAD_GhM-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="VdAw6mdAsAGD_oAD_GhM-4" target="VdAw6mdAsAGD_oAD_GhM-5" edge="1">
+        <mxCell id="0z2zf9hvBWnzD9PrqQiY-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0z2zf9hvBWnzD9PrqQiY-4" target="0z2zf9hvBWnzD9PrqQiY-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VdAw6mdAsAGD_oAD_GhM-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.47;exitY=0.99;entryX=0.44;entryY=0;rounded=0;" parent="1" source="VdAw6mdAsAGD_oAD_GhM-5" target="VdAw6mdAsAGD_oAD_GhM-6" edge="1">
+        <mxCell id="0z2zf9hvBWnzD9PrqQiY-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0z2zf9hvBWnzD9PrqQiY-5" target="0z2zf9hvBWnzD9PrqQiY-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0z2zf9hvBWnzD9PrqQiY-16" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.06;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0z2zf9hvBWnzD9PrqQiY-6" target="0z2zf9hvBWnzD9PrqQiY-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="131" y="535" />
+              <mxPoint x="82" y="956" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VdAw6mdAsAGD_oAD_GhM-14" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=0;entryX=0.53;entryY=0.99;rounded=0;" parent="1" source="VdAw6mdAsAGD_oAD_GhM-6" target="VdAw6mdAsAGD_oAD_GhM-5" edge="1">
+        <mxCell id="0z2zf9hvBWnzD9PrqQiY-17" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0z2zf9hvBWnzD9PrqQiY-6" target="0z2zf9hvBWnzD9PrqQiY-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="161" y="535" />
+              <mxPoint x="276" y="956" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VdAw6mdAsAGD_oAD_GhM-15" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="VdAw6mdAsAGD_oAD_GhM-6" target="VdAw6mdAsAGD_oAD_GhM-7" edge="1">
+        <mxCell id="0z2zf9hvBWnzD9PrqQiY-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.28;entryY=0;rounded=0;" edge="1" parent="1" source="0z2zf9hvBWnzD9PrqQiY-7" target="0z2zf9hvBWnzD9PrqQiY-9">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="82" y="1066" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VdAw6mdAsAGD_oAD_GhM-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="VdAw6mdAsAGD_oAD_GhM-7" target="VdAw6mdAsAGD_oAD_GhM-8" edge="1">
+        <mxCell id="0z2zf9hvBWnzD9PrqQiY-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.72;entryY=0;rounded=0;" edge="1" parent="1" source="0z2zf9hvBWnzD9PrqQiY-8" target="0z2zf9hvBWnzD9PrqQiY-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="276" y="1066" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0z2zf9hvBWnzD9PrqQiY-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0z2zf9hvBWnzD9PrqQiY-9" target="0z2zf9hvBWnzD9PrqQiY-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
