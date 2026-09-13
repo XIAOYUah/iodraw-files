@@ -152,6 +152,9 @@
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-23" value="汇总计划、调整、紧急三部分费用&lt;div&gt;并保存结果&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="358" y="700" width="248.5" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="0z2zf9hvBWnzD9PrqQiY-28" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="420" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
