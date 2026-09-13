@@ -111,16 +111,16 @@
           <mxGeometry x="407.5" y="460" width="145" height="145" as="geometry" />
         </mxCell>
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-7" value="紧急购电" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="992" width="124" height="49" as="geometry" />
+          <mxGeometry x="280" y="700" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-8" value="紧急购电量为0" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="194" y="992" width="165" height="49" as="geometry" />
+          <mxGeometry x="454" y="700" width="165" height="49" as="geometry" />
         </mxCell>
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-9" value="汇总计划、调整、紧急三部分费用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="53" y="1091" width="253" height="66" as="geometry" />
+          <mxGeometry x="313" y="799" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-10" value="保存 result3 各文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1207" width="199" height="49" as="geometry" />
+          <mxGeometry x="340" y="915" width="199" height="49" as="geometry" />
         </mxCell>
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0z2zf9hvBWnzD9PrqQiY-4" target="0z2zf9hvBWnzD9PrqQiY-5">
           <mxGeometry relative="1" as="geometry">
@@ -132,31 +132,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0z2zf9hvBWnzD9PrqQiY-16" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.06;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0z2zf9hvBWnzD9PrqQiY-6" target="0z2zf9hvBWnzD9PrqQiY-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="82" y="956" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0z2zf9hvBWnzD9PrqQiY-17" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0z2zf9hvBWnzD9PrqQiY-6" target="0z2zf9hvBWnzD9PrqQiY-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="276" y="956" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0z2zf9hvBWnzD9PrqQiY-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.28;entryY=0;rounded=0;" edge="1" parent="1" source="0z2zf9hvBWnzD9PrqQiY-7" target="0z2zf9hvBWnzD9PrqQiY-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="82" y="1066" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.72;entryY=0;rounded=0;" edge="1" parent="1" source="0z2zf9hvBWnzD9PrqQiY-8" target="0z2zf9hvBWnzD9PrqQiY-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="276" y="1066" />
+              <mxPoint x="536" y="774" />
             </Array>
           </mxGeometry>
         </mxCell>
