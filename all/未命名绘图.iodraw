@@ -113,6 +113,9 @@
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-5" value="实际运行采用光伏实际功率" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="310" width="252" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0z2zf9hvBWnzD9PrqQiY-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0z2zf9hvBWnzD9PrqQiY-6" target="0z2zf9hvBWnzD9PrqQiY-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-6" value="供电是否不足" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="308.75" y="400" width="342.5" height="90" as="geometry" />
         </mxCell>
@@ -120,7 +123,7 @@
           <mxGeometry x="184.75" y="530" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-8" value="紧急购电量为0" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="454" y="700" width="165" height="49" as="geometry" />
+          <mxGeometry x="660" y="530" width="165" height="49" as="geometry" />
         </mxCell>
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-9" value="汇总计划、调整、紧急三部分费用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="313" y="799" width="253" height="66" as="geometry" />
