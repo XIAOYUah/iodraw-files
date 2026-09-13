@@ -101,11 +101,8 @@
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-2" value="0:00 获取未来24小时光伏预报&#xa;并线性规划求计划购电量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="120" width="252" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="0z2zf9hvBWnzD9PrqQiY-3" value="6:00、12:00、18:00 获取最新预报" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="379" y="290" width="202" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-4" value="6:00、12:00、18:00 获取最新预报&#xa;并线性规划求调整购电量并计偏差费用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="354" y="400" width="252" height="84" as="geometry" />
+          <mxGeometry x="354" y="230" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-5" value="阶段三 实际运行：采用光伏实际功率" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="53" y="640" width="252" height="84" as="geometry" />
@@ -124,16 +121,6 @@
         </mxCell>
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-10" value="保存 result3 各文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="80" y="1207" width="199" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="0z2zf9hvBWnzD9PrqQiY-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0z2zf9hvBWnzD9PrqQiY-2" target="0z2zf9hvBWnzD9PrqQiY-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0z2zf9hvBWnzD9PrqQiY-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0z2zf9hvBWnzD9PrqQiY-3" target="0z2zf9hvBWnzD9PrqQiY-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0z2zf9hvBWnzD9PrqQiY-4" target="0z2zf9hvBWnzD9PrqQiY-5">
           <mxGeometry relative="1" as="geometry">
