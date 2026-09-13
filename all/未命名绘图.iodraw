@@ -101,7 +101,7 @@
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-1" value="0:00 获取未来24小时光伏预报" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="60" y="140" width="237" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="0z2zf9hvBWnzD9PrqQiY-2" value="阶段一 计划：线性规划求计划购电量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="0z2zf9hvBWnzD9PrqQiY-2" value="0:00 获取未来24小时光伏预报&#xa;并线性规划求计划购电量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="53" y="256" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-3" value="6:00、12:00、18:00 获取最新预报" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
