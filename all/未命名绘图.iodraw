@@ -127,6 +127,9 @@
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-6" value="供电是否不足" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="308.75" y="400" width="342.5" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="0z2zf9hvBWnzD9PrqQiY-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0z2zf9hvBWnzD9PrqQiY-7" target="0z2zf9hvBWnzD9PrqQiY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-7" value="紧急购电" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="184.75" y="530" width="124" height="49" as="geometry" />
         </mxCell>
@@ -161,12 +164,6 @@
         </mxCell>
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-28" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="420" y="790" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0z2zf9hvBWnzD9PrqQiY-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.623;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280.0000000000002" y="554.4705882352941" as="sourcePoint" />
-            <mxPoint x="327.53300000000013" y="641.1179999999999" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
