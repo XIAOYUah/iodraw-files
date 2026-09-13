@@ -94,7 +94,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9wQhbZIj8Bkrqkf3ew6X" name="第 2 页">
-    <mxGraphModel dx="284" dy="167" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="842" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,6 +121,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="0z2zf9hvBWnzD9PrqQiY-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0z2zf9hvBWnzD9PrqQiY-6" target="0z2zf9hvBWnzD9PrqQiY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-6" value="供电是否不足" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="308.75" y="400" width="342.5" height="90" as="geometry" />
         </mxCell>
@@ -131,7 +134,7 @@
           <mxGeometry x="660" y="530" width="165" height="49" as="geometry" />
         </mxCell>
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-9" value="汇总计划、调整、紧急三部分费用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="313" y="799" width="253" height="66" as="geometry" />
+          <mxGeometry x="340" y="650" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="0z2zf9hvBWnzD9PrqQiY-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0z2zf9hvBWnzD9PrqQiY-4" target="0z2zf9hvBWnzD9PrqQiY-5">
           <mxGeometry relative="1" as="geometry">
